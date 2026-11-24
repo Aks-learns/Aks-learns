@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/akshatshaw05"><img src="https://img.shields.io/badge/LinkedIn-akshatshaw05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:akshatshaw6@gmail.com"><img src="https://img.shields.io/badge/Email-akshatshaw6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Aks-learns&style=for-the-badge&color=2F81F7&label=Profile+views" alt="Profile views" />
 </p>
@@ -46,8 +47,8 @@
     <td width="50%" valign="top">
       <h4>🧮 CAT Quant Trainer</h4>
       <p>An installable practice game for CAT quantitative aptitude. It works offline on your phone.</p>
-      <a href="https://aks-learns.github.io/CAT-GAME/"><img src="https://img.shields.io/badge/▶_Play_live-2F81F7?style=flat-square" alt="Play live" /></a>
-      <a href="https://github.com/Aks-learns/CAT-GAME"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
+      <a href="https://aks-learns.github.io/cat-quant-trainer/"><img src="https://img.shields.io/badge/▶_Play_live-2F81F7?style=flat-square" alt="Play live" /></a>
+      <a href="https://github.com/Aks-learns/cat-quant-trainer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>🔢 Triplet Trainer</h4>
@@ -98,4 +99,4 @@
 
 ---
 
-<p align="center"><i>Always open to a conversation about finance, analytics or a small app idea. Drop me an email.</i></p>
+<p align="center"><i>Always open to a conversation about finance, analytics or a small app idea. Connect on <a href="https://www.linkedin.com/in/akshatshaw05">LinkedIn</a> or drop me an email.</i></p>
